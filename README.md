@@ -14,7 +14,7 @@
 
 Desenvolvedor full-stack na **RS Soluções Digitais**, em Uberaba-MG.
 
-Trabalho quase sempre em TypeScript nas duas pontas: React no front, Node e Express no back, MySQL e PostgreSQL guardando o que importa.
+Trabalho quase sempre em TypeScript, do componente ao banco: React e Next.js na interface, Supabase e PostgreSQL nos dados — incluindo as migrations SQL e as políticas de acesso.
 
 Gosto de problema que exige cuidado com desempenho. No **BLACK VEIL** a inferência de visão computacional roda no próprio navegador com o loop se auto-ajustando entre 25 e 90ms, e os resultados ficam fora do estado do React — assim nada força um re-render a cada quadro.
 
@@ -27,9 +27,9 @@ Escrevo pensando em quem vai ler o código depois de mim.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Chtml%2Ccss%2Creact%2Cnodejs%2Cexpress%2Ctailwind%2Cmysql%2Cpostgres%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=7&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Chtml%2Ccss%2Creact%2Cnodejs%2Cexpress%2Ctailwind%2Cmysql%2Cpostgres%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=7&theme=light" />
-  <img alt="Stack: js, ts, html, css, react, nodejs, express, tailwind, mysql, postgres, git, github, vscode, linux" src="https://skillicons.dev/icons?i=js%2Cts%2Chtml%2Ccss%2Creact%2Cnodejs%2Cexpress%2Ctailwind%2Cmysql%2Cpostgres%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=7&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=light" />
+  <img alt="Stack: ts, js, html, css, react, nextjs, vite, tailwind, supabase, postgres, mysql, nodejs, git, github, vscode, linux" src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=dark" />
 </picture>
 
 </div>
