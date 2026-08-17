@@ -3,22 +3,20 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh4oze/sh4oze/main/assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh4oze/sh4oze/main/assets/hero-light.svg" />
-  <img alt="Terminal animado do perfil de Magno A. Frutuoso" src="https://raw.githubusercontent.com/sh4oze/sh4oze/main/assets/hero-dark.svg" width="900" />
+  <img alt="Animated terminal for Magno A. Frutuoso" src="https://raw.githubusercontent.com/sh4oze/sh4oze/main/assets/hero-dark.svg" width="900" />
 </picture>
 
 </div>
 
 <br/>
 
-## Sobre
+## About
 
-Desenvolvedor full-stack na **RS Soluções Digitais**, em Uberaba-MG.
+Full-stack developer at **RS Soluções Digitais**, in Uberaba, Brazil.
 
-Trabalho quase sempre em TypeScript, do componente ao banco: React e Next.js na interface, Supabase e PostgreSQL nos dados — incluindo as migrations SQL e as políticas de acesso.
+I work almost entirely in TypeScript, from the component to the database: React and Next.js on the interface, Supabase and PostgreSQL for data — including the SQL migrations and access policies.
 
-Gosto de problema que exige cuidado com desempenho. No **BLACK VEIL** a inferência de visão computacional roda no próprio navegador com o loop se auto-ajustando entre 25 e 90ms, e os resultados ficam fora do estado do React — assim nada força um re-render a cada quadro.
-
-Escrevo pensando em quem vai ler o código depois de mim.
+I write with the next person to read the code in mind.
 
 <br/>
 
@@ -29,14 +27,14 @@ Escrevo pensando em quem vai ler o código depois de mim.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=light" />
-  <img alt="Stack: ts, js, html, css, react, nextjs, vite, tailwind, supabase, postgres, mysql, nodejs, git, github, vscode, linux" src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=dark" />
+  <img alt="Tech stack: ts, js, html, css, react, nextjs, vite, tailwind, supabase, postgres, mysql, nodejs, git, github, vscode, linux" src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cmysql%2Cnodejs%2Cgit%2Cgithub%2Cvscode%2Clinux&perline=8&theme=dark" />
 </picture>
 
 </div>
 
 <br/>
 
-## Projetos
+## Projects
 
 <div align="center">
 
@@ -52,26 +50,26 @@ Escrevo pensando em quem vai ler o código depois de mim.
 
 <br/>
 
-## Atividade
+## Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh4oze/sh4oze/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh4oze/sh4oze/output/snake-light.svg" />
-  <img alt="Cobrinha percorrendo o grafico de contribuicoes" src="https://raw.githubusercontent.com/sh4oze/sh4oze/output/snake-dark.svg" />
+  <img alt="Snake crossing the contribution graph" src="https://raw.githubusercontent.com/sh4oze/sh4oze/output/snake-dark.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-## Contato
+## Contact
 
 <div align="center">
 
 <a href="mailto:magno@rssolucoesdigitais.com.br">magno@rssolucoesdigitais.com.br</a>
 
-<sub>RS Soluções Digitais &nbsp;·&nbsp; Uberaba - MG</sub>
+<sub>RS Soluções Digitais &nbsp;·&nbsp; Uberaba, Brazil</sub>
 
 </div>
